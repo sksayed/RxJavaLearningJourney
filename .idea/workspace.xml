@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e99aee0-6220-4e1a-97db-d747091430da" name="Default Changelist" comment="" />
+    <list default="true" id="77ebf037-dc7f-49e9-85c7-57c2b826dd79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sayed/SumMainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RxJava/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxjavapac/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RxJava/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxjavapac/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RxJava/Other.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rxjavapac/Other.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RxJava/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/rxjavapac/LibraryTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,28 +38,29 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1Xl4u6TrG3ay5ciBSR4cncPPH5E" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bXh0oI7USlytyUjmi9lvfCNUqo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="C:/Torrents download/SAYED/JavaDev/Java8-Reactive/resources/Ex_Files_Reactive_Prog_Java_8/Exercise Files/04_03/end/rxjava-linkedin-learning" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\JavaRawCoding\RxJava\src\main\java\RxJava" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RxJava.Main" />
-      <module name="RxJava.main" />
+  <component name="RunManager" selected="Application.SumMainClass">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sayed.App" />
+      <module name="RxJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RxJava.*" />
+          <option name="PATTERN" value="com.sayed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
+    <configuration name="SumMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sayed.SumMainClass" />
       <module name="RxJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.*" />
+          <option name="PATTERN" value="com.sayed.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,60 +83,94 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SumMainClass" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e99aee0-6220-4e1a-97db-d747091430da" name="Default Changelist" comment="" />
-      <created>1581607566555</created>
+      <changelist id="77ebf037-dc7f-49e9-85c7-57c2b826dd79" name="Default Changelist" comment="" />
+      <created>1588784124474</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581607566555</updated>
+      <updated>1588784124474</updated>
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="460" y="123" key="FileChooserDialogImpl" timestamp="1581614750598">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="497" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1588792641797">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="460" y="123" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1581614750598" />
-    <state width="1317" height="215" key="GridCell.Tab.0.bottom" timestamp="1581616099625">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="497" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588792641797" />
+    <state x="511" y="82" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1588789661031">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1581616099625" />
-    <state width="1317" height="215" key="GridCell.Tab.0.center" timestamp="1581616099625">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="511" y="82" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588789661031" />
+    <state width="1323" height="207" key="GridCell.Tab.0.bottom" timestamp="1588793700421">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1581616099625" />
-    <state width="1317" height="215" key="GridCell.Tab.0.left" timestamp="1581616099625">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1323" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588793700421" />
+    <state width="1323" height="207" key="GridCell.Tab.0.center" timestamp="1588793700420">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1581616099625" />
-    <state width="1317" height="215" key="GridCell.Tab.0.right" timestamp="1581616099625">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1323" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588793700420" />
+    <state width="1323" height="207" key="GridCell.Tab.0.left" timestamp="1588793700419">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1317" height="215" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1581616099625" />
-    <state x="388" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1581611674607">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1323" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588793700419" />
+    <state width="1323" height="207" key="GridCell.Tab.0.right" timestamp="1588793700420">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="388" y="193" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1581611674607" />
+    <state width="1323" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588793700420" />
+    <state width="1323" height="207" key="GridCell.Tab.1.bottom" timestamp="1588793625000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="207" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588793625000" />
+    <state width="1323" height="207" key="GridCell.Tab.1.center" timestamp="1588793625000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="207" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588793625000" />
+    <state width="1323" height="207" key="GridCell.Tab.1.left" timestamp="1588793625000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="207" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588793625000" />
+    <state width="1323" height="207" key="GridCell.Tab.1.right" timestamp="1588793625000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="207" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588793625000" />
+    <state x="222" y="37" key="Maven.ArtifactSearchDialog" timestamp="1588789695491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="222" y="37" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1588789695491" />
+    <state x="508" y="169" key="chooseDestDirectoryDialog" timestamp="1588790273711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="169" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1588790273711" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sayed/SumMainClass.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

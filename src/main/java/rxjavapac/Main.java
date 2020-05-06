@@ -1,4 +1,4 @@
-package RxJava;
+package rxjavapac;
 
 import io.reactivex.Observable;
 
@@ -7,10 +7,8 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class Main {
-    public static void main(String[] args) {
-
+    /*public static void main(String[] args) {
         Second();
-
     }
 
     public static void  Initial (){
@@ -32,7 +30,6 @@ public class Main {
         integerObservable.subscribe(Main::Replica);
         System.out.println("Thrid subscriber ");
         integerObservable.subscribe(Main::even);
-
     }
 
     private static <T> void Replica (T val) {
@@ -43,5 +40,5 @@ public class Main {
         if (val % 2 == 0){
             System.out.println(val);
         }
-    }
+    }*/
 }
